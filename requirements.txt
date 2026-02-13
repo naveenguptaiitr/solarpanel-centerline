@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch
+transformers
+datasets
+jupyter
+ipykernel
+pillow
+cairosvg
+opencv-python
+segmenation-models-pytorch
+albumentations
+scikit-image
